@@ -88,10 +88,10 @@ params:
         subtitle: Predicting Bedechel Test Results using ML
         title: Machine Learning
         url: blogs/machine_learning
-#      - image: doorway.jpg
-#        subtitle: Placeholder1
-#        title: Placeholder1
-#        url: blogs/magna
+      - image: doorway.jpg
+        subtitle: Mapping locations of crimes committed in London
+        title: Geospatial Data Analysis
+        url: blogs/crime_map
       - image: acropolis.jpg
         subtitle: Flexdashboard with Gapminder
         title: Flexdashbaord
