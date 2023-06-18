@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      Example Portfolio Of Data Science Projects.
     title: Assad Ahmed - Investment Associate
   blog: {}
   contact:
@@ -82,9 +81,9 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: ISummary of Background & Education
+        subtitle: Risk-Return
         title: Profile
-        url: blogs/aliquam
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: sample
         title: Portfolio
