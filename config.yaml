@@ -87,7 +87,7 @@ params:
       - image: escalator.jpg
         subtitle: Predicting Bedechel Test Results using ML
         title: Machine Learning
-        url: blogs/Machine_Learning
+        url: blogs/machine_learning
       - image: doorway.jpg
         subtitle: Placeholder1
         title: Placeholder1
