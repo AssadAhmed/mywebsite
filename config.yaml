@@ -93,17 +93,17 @@ params:
         title: Placeholder1
         url: blogs/magna
       - image: acropolis.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Flexdashboard with Gapminder
+        title: Flexdashbaord
+        url: blogs/flexdashboard
       - image: Waterfall.jpg
         subtitle: Modelling porfolio's of stockes based on historic returns
         title: Portfolio Growth & CAPM
         url: blogs/portfolio_capm
-      - image: pic10.jpg
-        subtitle: Placeholder3
-        title: Placeholder3
-        url: blogs/ipsum
+#     - image: pic10.jpg
+#        subtitle: Placeholder3
+#        title: Placeholder3
+#        url: blogs/ipsum
   two:
     buttonText: See Projects
     enable: yes
