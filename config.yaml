@@ -63,7 +63,7 @@ params:
       - name: See Projects
         url: blogs
     button2:
-      - name: Log In
+      - name: Home
         url: '#'
     links:
       - name: Home
