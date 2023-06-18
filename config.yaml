@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       Example Portfolio Of Data Science Projects.
-    title: Assad Ahmed - Investment Associate
+    title: Assad Ahmed, Investment Associate
   blog: {}
   contact:
 #    address:
@@ -75,32 +75,32 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: By Assad Ahmed
+    title: Portfolio
   tiles:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Risk-Return
-        title: Profile
+        subtitle: Project Analysing Risk-Return of DJIA stocks
+        title: Risk-Return 
         url: blogs/risk_return
-      - image: pic02.jpg
+      - image: escalator.jpg
         subtitle: sample
         title: Portfolio
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: doorway.jpg
         subtitle: Placeholder1
         title: Placeholder1
         url: blogs/magna
-      - image: pic04.jpg
+      - image: acropolis.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: waterfall.jpg
         subtitle: Placeholder2
         title: Placeholder2
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: pic10.jpg
         subtitle: Placeholder3
         title: Placeholder3
         url: blogs/ipsum
