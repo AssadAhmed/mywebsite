@@ -52,10 +52,10 @@ params:
 #        url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://github.com/AssadAhmed
+        url: https://github.com/AssadAhmed/
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com/massadahmed
+        url: https://www.linkedin.com/in/massadahmed/
   image: ''
   name: Assad Ahmed
   navigation:
