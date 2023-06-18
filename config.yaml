@@ -85,9 +85,9 @@ params:
         title: Risk-Return 
         url: blogs/risk_return
       - image: escalator.jpg
-        subtitle: sample
-        title: Portfolio
-        url: blogs/tempus
+        subtitle: Predicting Bedechel Test Results using ML
+        title: Machine Learning
+        url: blogs/Machine_Learning
       - image: doorway.jpg
         subtitle: Placeholder1
         title: Placeholder1
@@ -108,8 +108,8 @@ params:
     buttonText: See Projects
     enable: yes
     subtitle: "I am a Mathematics & Physics Graduate with a Masters in Finance, 
-    currently working within the Alternative Invetsment Management industry. This website is desgn to showcase
-    some of the quantitative projects i have worked on using open source data"
+    currently working within the Alternative Investment Management industry. This website is desgn to showcase
+    some of the quantitative projects i have worked on using open source data."
     title: Overview
     url: blogs
 markup: 
