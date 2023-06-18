@@ -5,7 +5,7 @@ categories:
 date: "2021-09-30"
 description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
 draft: false
-image: Spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: acropolis.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: risk_return # slug is the shorthand URL address... no spaces plz
@@ -15,7 +15,7 @@ title: Risk-Return of DJIA stocks
 
 
 
-![](../../../../../../../img/spices.jpg)<!-- -->
+
 
 
 

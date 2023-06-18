@@ -60,7 +60,7 @@ params:
   name: Assad Ahmed
   navigation:
     button1:
-      - name: Get Started
+      - name: See Projects
         url: blogs
     button2:
       - name: Log In
@@ -68,7 +68,7 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: blogs
         url: blogs
       - name: Generic Blog
         url: blogs/ipsum
@@ -96,7 +96,7 @@ params:
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: waterfall.jpg
+      - image: Waterfall.jpg
         subtitle: Placeholder2
         title: Placeholder2
         url: blogs/ipsum
@@ -105,15 +105,12 @@ params:
         title: Placeholder3
         url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: See Projects
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "I am a Mathematics & Physics Graduate with a Masters in Finance, 
+    currently working within the Alternative Invetsment Management industry. This website is desgn to showcase
+    some of the quantitative projects i have worked on using open source data"
+    title: Overview
     url: blogs
 markup: 
   goldmark: 
