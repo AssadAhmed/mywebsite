@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Explore
     subtitle: |-
       Example Portfolio Of Data Science Projects.
     title: Assad Ahmed, Investment Associate
@@ -96,7 +96,7 @@ params:
         subtitle: Flexdashboard with Gapminder
         title: Flexdashbaord
         url: blogs/flexdashboard
-      - image: Waterfall.jpg
+      - image: clouds.jpg
         subtitle: Modelling porfolio's of stockes based on historic returns
         title: Portfolio Growth & CAPM
         url: blogs/portfolio_capm

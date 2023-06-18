@@ -5,7 +5,7 @@ categories:
 date: "2023-06-18"
 description: Portfolio Growth Overtime & CAPM Dashboard for selected stock tickers # the title that will show up once someone gets to this page
 draft: false
-image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: pic07.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: Portfolio_CAPM # slug is the shorthand URL address... no spaces plz
@@ -22,6 +22,8 @@ library(scales)
 library(broom)
 library(highcharter)
 library(plotly)
+
+knitr::include_graphics("/img/clouds.jpg",error=FALSE)
 ```
 
 Sidebar {.sidebar data-width=230}

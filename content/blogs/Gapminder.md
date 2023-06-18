@@ -10,7 +10,7 @@ image: doorway.jpg # save picture in \static\img\blogs. Acceptable formats= jpg,
 keywords: ""
 slug: flexdashboard # slug is the shorthand URL address... no spaces plz
 title: Flexdashboard with Gapminder
-  
+runtime: shiny  
 ---
 
 ``` r
