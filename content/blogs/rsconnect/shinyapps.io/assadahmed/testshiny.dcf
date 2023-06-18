@@ -1,0 +1,14 @@
+name: testshiny
+title: testshiny
+username:
+account: assadahmed
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9328830
+bundleId: 7359822
+url: https://assadahmed.shinyapps.io/testshiny/
+when: 1687118037.88066
+lastSyncTime: 1687118037.88067
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _index.md|capm_flexdashboard.md|capm_flexdashboard.Rmd|Gapminder.md|Machine_Learning.md|Machine_Learning.Rmd|risk_return.md|risk_return.Rmd

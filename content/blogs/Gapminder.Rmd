@@ -10,7 +10,6 @@ image: doorway.jpg # save picture in \static\img\blogs. Acceptable formats= jpg,
 keywords: ""
 slug: flexdashboard # slug is the shorthand URL address... no spaces plz
 title: Flexdashboard with Gapminder
-  
 ---
 
 ```{r}
@@ -92,13 +91,7 @@ server <- function(input, output) {
 }
 
 
-#Run the application
-shinyApp(ui = ui, server = server)
+#embed the shiny app in the site
+knitr::include_app("https://assadahmed.shinyapps.io/testshiny/")
 
 ```
-
-
-
-
-
-

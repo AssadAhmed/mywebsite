@@ -1,16 +1,42 @@
 ---
-title: "Gapminder exploration"
-runtime: shiny
-output:
-  flexdashboard::flex_dashboard:
-    orientation: rows
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2023-06-18"
+description: Mapping # the title that will show up once someone gets to this page
+draft: false
+image: doorway.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: flexdashboard # slug is the shorthand URL address... no spaces plz
+title: Flexdashboard with Gapminder
+  
 ---
 
-```{r}
+``` r
 library(flexdashboard)
+```
+
+    ## Warning: package 'flexdashboard' was built under R version 4.3.1
+
+``` r
 library(shiny)
 library(ggplot2)
 library(dplyr)
+```
+
+    ## 
+    ## Attaching package: 'dplyr'
+
+    ## The following objects are masked from 'package:stats':
+    ## 
+    ##     filter, lag
+
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     intersect, setdiff, setequal, union
+
+``` r
 library(gapminder)
 
 # use bigger font size
@@ -87,8 +113,8 @@ server <- function(input, output) {
 
 #Run the application
 shinyApp(ui = ui, server = server)
-
 ```
 
+    ## PhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.
 
-
+<div style="width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;" class="muted well">Shiny applications not supported in static R Markdown documents</div>

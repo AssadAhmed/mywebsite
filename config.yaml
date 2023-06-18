@@ -70,10 +70,10 @@ params:
         url: '#'
       - name: blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: By Assad Ahmed
     title: Portfolio
@@ -88,10 +88,10 @@ params:
         subtitle: Predicting Bedechel Test Results using ML
         title: Machine Learning
         url: blogs/machine_learning
-      - image: doorway.jpg
-        subtitle: Placeholder1
-        title: Placeholder1
-        url: blogs/magna
+#      - image: doorway.jpg
+#        subtitle: Placeholder1
+#        title: Placeholder1
+#        url: blogs/magna
       - image: acropolis.jpg
         subtitle: Flexdashboard with Gapminder
         title: Flexdashbaord
