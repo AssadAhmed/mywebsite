@@ -97,9 +97,9 @@ params:
         title: Ipsum
         url: blogs/ipsum
       - image: Waterfall.jpg
-        subtitle: Placeholder2
-        title: Placeholder2
-        url: blogs/ipsum
+        subtitle: Modelling porfolio's of stockes based on historic returns
+        title: Portfolio Growth & CAPM
+        url: blogs/portfolio_capm
       - image: pic10.jpg
         subtitle: Placeholder3
         title: Placeholder3
